@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RBAC Task Manager
 
 ## Features Implemented
@@ -53,3 +54,6 @@
 * Mongoose
 * JWT
 * RBAC Middleware
+=======
+# Company-assignment
+>>>>>>> 179bee6b086656b7099c0f04cf5279032ee83d0b
